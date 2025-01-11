@@ -1,0 +1,4 @@
+/.git/
+/mvn_data/
+/__pycache__/
+*.mvn

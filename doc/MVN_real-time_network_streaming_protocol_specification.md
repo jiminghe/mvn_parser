@@ -38,7 +38,7 @@ Xsens North America, Inc.
 
 
 ## Table of Contents
-
+```
 1 INTRODUCTION ..... 1
 1.1 Perceived Usage ..... 1
 1.1.1 Usage in real-time previsualization and simulation VR setups ..... 1
@@ -75,7 +75,7 @@ Xsens North America, Inc.
 2.7.6 Time Code (type 25) ..... 12
 3 DATA TYPES ..... 13
 3.1 Segments ..... 13
-
+```
 
 
 ## 1 Introduction
